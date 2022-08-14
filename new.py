@@ -5,4 +5,4 @@ b = int(input("Enter a Second Number "))
 c = a + b
 print(c)
 
-def number1():
+print("Hello this is me")
